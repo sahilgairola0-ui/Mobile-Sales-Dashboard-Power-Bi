@@ -34,6 +34,13 @@ The goal of this dashboard is to provide **data-driven insights** for better bus
 
 ---
 
+## 📊 Dashboard Preview
+*(Add your Power BI dashboard image or GIF here)*  
+> Example:  
+> ![Dashboard Screenshot](link_to_your_image.png)
+
+---
+
 ## 🧠 Key Learnings
 - Enhanced understanding of **data modeling** and relationships in Power BI  
 - Hands-on practice with **DAX functions** like `CALCULATE()`, `FILTER()`, `SUMX()`  
@@ -58,4 +65,3 @@ The goal of this dashboard is to provide **data-driven insights** for better bus
 ---
 
 ⭐ *“Good data visualization doesn’t just show data — it tells a story.”*
-
