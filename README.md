@@ -37,7 +37,7 @@ The goal of this dashboard is to provide **data-driven insights** for better bus
 ## 📊 Dashboard Preview
 *(Add your Power BI dashboard image or GIF here)*  
 > Example:  
-> ![Dashboard Screenshot](link_to_your_image.png)
+> ![Dashboard Screenshot](https://github.com/sahilgairola0-ui/Mobile-Sales-Dashboard-Power-Bi/blob/main/Modile%20Sales%20Dashboard-%20Screen%20Shot.png)
 
 ---
 
